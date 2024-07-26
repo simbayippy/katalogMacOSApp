@@ -4,11 +4,11 @@
         <title>Katalog</title>
         <item>
             <title>1.2</title>
-            <pubDate>Sat, 27 Jul 2024 02:17:28 +0800</pubDate>
+            <pubDate>Sat, 27 Jul 2024 02:25:49 +0800</pubDate>
             <sparkle:version>1.1</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/simbayippy/katalogMacOSApp/releases/tag/v1.2#:~:text=Katalog_Installer.dmg" length="3645145" type="application/octet-stream" sparkle:edSignature="OTrnQLDAvUYbnia4/hwUNHORerjmjAr8Qkih/y+XcoGiQMQX6cMRCCbvnPuqwZPwAqf83OrTKVLWU6I3YswzBA=="/>
+            <enclosure url="https://github.com/simbayippy/katalogMacOSApp/releases/tag/v1.2#:~:text=Katalog_Installer.dmg" length="3645104" type="application/octet-stream" sparkle:edSignature="Uqe3YHUTo8xLgyzK/OkW6MkVyEqT8snCUuIhbSjSVCLbC83d1X5gy/P6U32o5TA8ZjublHpJljSH3nVKi100CA=="/>
         </item>
     </channel>
 </rss>
