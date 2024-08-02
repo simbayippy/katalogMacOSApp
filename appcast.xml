@@ -3,12 +3,12 @@
     <channel>
         <title>Katalog</title>
         <item>
-            <title>1.4</title>
-            <pubDate>Tue, 30 Jul 2024 02:21:04 +0800</pubDate>
-            <sparkle:version>1.4</sparkle:version>
-            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <title>1.4.1</title>
+            <pubDate>Fri, 02 Aug 2024 17:04:37 +0800</pubDate>
+            <sparkle:version>1.4.1</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/simbayippy/katalogMacOSApp/releases/download/v1.2/Katalog_Installer.dmg" length="6877804" type="application/octet-stream" sparkle:edSignature="VeZzIG4LvsyFsByko6Qz6rM2ipR7Ux/Gba/0yqvVkKr9wchc0KVIxL6FaLzWQCzvvCREbnBmEoP9/F4ZXZODBg=="/>
+            <enclosure url="https://github.com/simbayippy/katalogMacOSApp/releases/download/v1.2/Katalog_Installer.dmg" length="8863557" type="application/octet-stream" sparkle:edSignature="uTG7LZxt75Aido4lMERgiP3KseJGdCkrcyPyer0xI/EjkojrVJcfVbfcf9fcJVDe6ARez7kA/JjweyyDp0w+AA=="/>
         </item>
     </channel>
 </rss>
